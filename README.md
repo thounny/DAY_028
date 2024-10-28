@@ -23,7 +23,7 @@ This project emerged from my fascination with creating engaging ways to display 
 - **Drag Navigation**: Interactive dragging in zoomed state for easy exploration of the gallery.
 - **Mixed Media Support**: Seamlessly integrates both static images and GIFs in the gallery.
 - **Minimalist UI Controls**: Clean, intuitive zoom controls with visual feedback.
-- **Blur Effect Overlays**: Sophisticated backdrop filters for UI elements.
+- **Blur Effect Overlays**: Backdrop filters for UI elements.
 
 ---
 
